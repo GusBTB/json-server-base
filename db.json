@@ -34,8 +34,7 @@
   "users": [
     {
       "email": "gustavocs81@usp.br",
-      "password": "$2a$10$1tjYFKkfsLSZa0CK27jVquf3hFlag1ainHn0NM4ZelyFdgd4.Lzvi",
-      "userId": 1,
+      "password": "$2a$10$/PkAa1LIZpGywBmK8O9AnO7ULotz8aUaiQW3ibfgKQ6wH7OxZq8ZC",
       "ehlider": true,
       "area": "Marketing",
       "nome": "Gustavo da Costa",
